@@ -1,24 +1,26 @@
-table {
-    border-collapse: collapse;
-    max-resolution: 100%;
-    margin-left: auto;
-    margin-right: auto;
-  }
-  
-  td,
-  th {
-    border: 1px solid black;
-    padding: 3px;
-    text-align: center;
-  }
-  
-  th {
-    font-style: italic;
-    font-family: 'Courier New', Courier, monospace;
-  }
-
-  h1{
-      text-align: center;
-      color: yellow;  
-      background-color: red;
-  }
+button{
+  background-color: #a11414;
+  color: black;
+  width: 80px;
+  padding: 6px;
+  font-size: 14px;
+  border-radius: 4px;
+}
+label{
+  width: 240px;
+  display: inline-block;
+  text-align: left;
+}
+input{
+  width: 20%;
+  padding: 6px;
+  font-size: 14px;
+  border-radius: 4px;
+  text-align: right;
+}
+h1{
+  width: auto;
+  text-align: center;
+  background-color: lightgreen;
+  font-family: 'Courier New', Courier, monospace;
+}
