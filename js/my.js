@@ -1,4 +1,3 @@
-
 const iitem1 = document.getElementById("iitem1")
 const iitem2 = document.getElementById("iitem2")
 const iitem3 = document.getElementById("iitem3")
